@@ -1,0 +1,2116 @@
+{
+  "autoplayBgm": false,
+  "autoplayBgs": false,
+  "battleback1Name": "",
+  "battleback2Name": "",
+  "bgm": { "name": "TitleTheme", "pan": 0, "pitch": 100, "volume": 90 },
+  "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "disableDashing": false,
+  "displayName": "",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 10,
+  "note": "<Filter:CRT#1,crt,1,3,0.3,0.2,1>\n",
+  "parallaxLoopX": false,
+  "parallaxLoopY": false,
+  "parallaxName": "!Kitchen",
+  "parallaxShow": true,
+  "parallaxSx": 0,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": false,
+  "tilesetId": 2,
+  "width": 17,
+  "data": [
+    2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864,
+    2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864,
+    2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2868, 2892, 2892, 2892, 2892, 2892, 2892, 2892, 2892, 2892, 2872, 2864, 2864, 2864, 2864, 2864,
+    2868, 2902, 2850, 2836, 2836, 2836, 2836, 2836, 2836, 2836, 2852, 2904, 2872, 2864, 2864, 2864, 2864, 2888, 2850, 2817, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2818, 2852,
+    2880, 2864, 2864, 2864, 2864, 2888, 2856, 2844, 2828, 2844, 2844, 2844, 2844, 2844, 2844, 2844, 2854, 2880, 2864, 2864, 2864, 2864, 2866, 2884, 2900, 2860, 2898, 2884, 2884,
+    2884, 2884, 2884, 2884, 2884, 2865, 2864, 2864, 2864, 2864, 2864, 2864, 2866, 2884, 2865, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 2864, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 299, 300, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 262, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 290, 0, 0, 0, 0, 0, 0, 291, 292, 0, 289, 0, 0, 0, 0, 0, 0, 298, 0, 0, 0, 0, 0, 0, 305, 305, 0,
+    297, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+  ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "EV001",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
+          "list": [
+            { "code": 250, "indent": 0, "parameters": [{ "name": "Select", "volume": 75, "pitch": 50, "pan": 0 }] },
+            { "code": 201, "indent": 0, "parameters": [0, 14, 11, 5, 2, 2] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 5,
+      "y": 8
+    },
+    {
+      "id": 2,
+      "name": "Cutscene",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 56,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
+          "list": [
+            { "code": 245, "indent": 0, "parameters": [{ "name": "Kettle", "volume": 100, "pitch": 100, "pan": 0 }] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [
+                    { "code": 3, "indent": null },
+                    { "code": 3, "indent": null },
+                    { "code": 19, "indent": null },
+                    { "code": 15, "parameters": [30], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 3, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 3, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 19, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 15, "parameters": [30], "indent": null }] },
+            { "code": 246, "indent": 0, "parameters": [3] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [{ "code": 17, "indent": null }, { "code": 15, "parameters": [8], "indent": null }, { "code": 16, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 17, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 15, "parameters": [8], "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 16, "indent": null }] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK 3"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Deer Man>\\c[1]Back so soon, Mitchell?"] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK CLEAR"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Mitch>...!"] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK 3"] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [{ "code": 17, "indent": null }, { "code": 15, "parameters": [8], "indent": null }, { "code": 19, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 17, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 15, "parameters": [8], "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 19, "indent": null }] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Deer Man>\\c[1]While you were wandering, trying to get the garden doors open, I took a look out the window and noticed the state of the fire ladder."
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [{ "code": 3, "indent": null }, { "code": 15, "parameters": [4], "indent": null }, { "code": 19, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 3, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 15, "parameters": [4], "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 19, "indent": null }] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Deer Man>\\c[1]I understand it wouldn’t stay iced over for long in case of a fire, but it still serves as quite the safety issue regardless, wouldn’t you say?"
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    { "code": 29, "parameters": [3], "indent": null },
+                    { "code": 4, "indent": null },
+                    { "code": 4, "indent": null },
+                    { "code": 18, "indent": null },
+                    { "code": 29, "parameters": [4], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 29, "parameters": [3], "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 4, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 4, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 18, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 29, "parameters": [4], "indent": null }] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK 2"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Mitch>...You could talk this whole time?"] },
+            { "code": 205, "indent": 0, "parameters": [4, { "list": [{ "code": 17, "indent": null }, { "code": 0 }], "repeat": false, "skippable": false, "wait": false }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 17, "indent": null }] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK 3"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Deer Man>\\c[1]..."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Deer Man>\\c[1]Oh dear."] },
+            { "code": 205, "indent": 0, "parameters": [4, { "list": [{ "code": 19, "indent": null }, { "code": 0 }], "repeat": false, "skippable": false, "wait": false }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 19, "indent": null }] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Deer Man>\\c[1]I was merely talking for my own sake at this time but..."] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [{ "code": 2, "indent": null }, { "code": 15, "parameters": [8], "indent": null }, { "code": 19, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 2, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 15, "parameters": [8], "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 19, "indent": null }] },
+            { "code": 205, "indent": 0, "parameters": [3, { "list": [{ "code": 39, "indent": null }, { "code": 0 }], "repeat": false, "skippable": false, "wait": false }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 39, "indent": null }] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Deer Man>\\c[1]If you understand me, you don’t have much time left to make your exit."] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [{ "code": 2, "indent": null }, { "code": 2, "indent": null }, { "code": 2, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 2, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 2, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 2, "indent": null }] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Deer Man>\\c[1]Let’s see... You’re wearing gloves, you should be fine. Take this with you."] },
+            { "code": 250, "indent": 0, "parameters": [{ "name": "GetItem", "volume": 65, "pitch": 50, "pan": 0 }] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK CLEAR"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["He hands over a\\c[4] Hot Kettle\\c[0]."] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK 2"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Mitch>You boiled this for me?"] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK 3"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Deer Man>\\c[1]Consider it a consolation for Miss Martino and Mr. Malthus’s behavior tonight."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Deer Man>\\c[1]Those two hold their own personal agendas in higher regard than library rules."] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK 2"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Mitch>You’re a lifesaver. Thank you so much, um... uh..."] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK 3"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Deer Man>\\c[1]Mr. Lane is fine."] },
+            { "code": 205, "indent": 0, "parameters": [-1, { "list": [{ "code": 16, "indent": null }, { "code": 0 }], "repeat": false, "skippable": false, "wait": false }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 16, "indent": null }] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [
+                    { "code": 1, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 37, "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 15, "parameters": [8], "indent": null },
+                    { "code": 17, "indent": null },
+                    { "code": 15, "parameters": [8], "indent": null },
+                    { "code": 19, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 1, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 2, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 37, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 1, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 1, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 15, "parameters": [8], "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 17, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 15, "parameters": [8], "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 19, "indent": null }] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Mr. Lane>\\c[1]I will be returning to my desk now. Be sure to keep your guard up until you’re sure that you are back where you belong."]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [
+                    { "code": 18, "indent": null },
+                    { "code": 15, "parameters": [8], "indent": null },
+                    { "code": 16, "indent": null },
+                    { "code": 15, "parameters": [8], "indent": null },
+                    { "code": 39, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 18, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 15, "parameters": [8], "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 16, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 15, "parameters": [8], "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 39, "indent": null }] },
+            { "code": 126, "indent": 0, "parameters": [11, 0, 0, 1] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK CLEAR"] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 56,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 36,
+            "variableValid": true,
+            "variableValue": 3
+          },
+          "directionFix": false,
+          "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
+          "list": [
+            { "code": 245, "indent": 0, "parameters": [{ "name": "Kettle", "volume": 100, "pitch": 100, "pan": 0 }] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [
+                    { "code": 3, "indent": null },
+                    { "code": 3, "indent": null },
+                    { "code": 19, "indent": null },
+                    { "code": 15, "parameters": [30], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 3, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 3, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 19, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 15, "parameters": [30], "indent": null }] },
+            { "code": 246, "indent": 0, "parameters": [3] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [{ "code": 17, "indent": null }, { "code": 15, "parameters": [8], "indent": null }, { "code": 16, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 17, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 15, "parameters": [8], "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 16, "indent": null }] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK 3"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Deer Man>\\c[1]Back so soon, Mitchell?"] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK CLEAR"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Mitch>...!"] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK 3"] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [{ "code": 17, "indent": null }, { "code": 15, "parameters": [8], "indent": null }, { "code": 19, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 17, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 15, "parameters": [8], "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 19, "indent": null }] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Deer Man>\\c[1]While you were wandering, trying to get the garden doors open, I took a look out the window and noticed the state of the fire ladder."
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [{ "code": 3, "indent": null }, { "code": 15, "parameters": [4], "indent": null }, { "code": 19, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 3, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 15, "parameters": [4], "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 19, "indent": null }] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Deer Man>\\c[1]I understand it wouldn’t stay iced over for long in case of a fire, but it still serves as quite the safety issue regardless, wouldn’t you say?"
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    { "code": 29, "parameters": [3], "indent": null },
+                    { "code": 4, "indent": null },
+                    { "code": 4, "indent": null },
+                    { "code": 18, "indent": null },
+                    { "code": 29, "parameters": [4], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 29, "parameters": [3], "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 4, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 4, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 18, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 29, "parameters": [4], "indent": null }] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK 2"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Mitch>...You could talk this whole time?"] },
+            { "code": 205, "indent": 0, "parameters": [4, { "list": [{ "code": 17, "indent": null }, { "code": 0 }], "repeat": false, "skippable": false, "wait": false }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 17, "indent": null }] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK 3"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Deer Man>\\c[1]..."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Deer Man>\\c[1]Oh dear."] },
+            { "code": 205, "indent": 0, "parameters": [4, { "list": [{ "code": 19, "indent": null }, { "code": 0 }], "repeat": false, "skippable": false, "wait": false }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 19, "indent": null }] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Deer Man>\\c[1]I was merely talking for my own sake at this time but..."] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [{ "code": 2, "indent": null }, { "code": 15, "parameters": [8], "indent": null }, { "code": 19, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 2, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 15, "parameters": [8], "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 19, "indent": null }] },
+            { "code": 205, "indent": 0, "parameters": [3, { "list": [{ "code": 39, "indent": null }, { "code": 0 }], "repeat": false, "skippable": false, "wait": false }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 39, "indent": null }] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Deer Man>\\c[1]If you understand me, you don’t have much time left to make your exit."] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [{ "code": 2, "indent": null }, { "code": 2, "indent": null }, { "code": 2, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 2, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 2, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 2, "indent": null }] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Deer Man>\\c[1]Let’s see... You’re wearing gloves, you should be fine. Take this with you."] },
+            { "code": 250, "indent": 0, "parameters": [{ "name": "GetItem", "volume": 65, "pitch": 50, "pan": 0 }] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK CLEAR"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["He hands over a\\c[4] Hot Kettle\\c[0]."] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK 2"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Mitch>You boiled this for me?"] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK 3"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Deer Man>\\c[1]Consider it a consolation for Miss Martino and Mr. Malthus’s behavior tonight."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Deer Man>\\c[1]Those two hold their own personal agendas in higher regard than library rules."] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK 2"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Mitch>You’re a lifesaver. Thank you so much, um... uh..."] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK 3"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Deer Man>\\c[1]Mr. Lane is fine."] },
+            { "code": 205, "indent": 0, "parameters": [-1, { "list": [{ "code": 16, "indent": null }, { "code": 0 }], "repeat": false, "skippable": false, "wait": false }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 16, "indent": null }] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [
+                    { "code": 1, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 37, "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 15, "parameters": [8], "indent": null },
+                    { "code": 17, "indent": null },
+                    { "code": 15, "parameters": [8], "indent": null },
+                    { "code": 19, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 1, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 2, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 37, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 1, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 1, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 15, "parameters": [8], "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 17, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 15, "parameters": [8], "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 19, "indent": null }] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Mr. Lane>\\c[1]I will be returning to my desk now. Be sure to keep your guard up until you’re sure that you are back where you belong."]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [
+                    { "code": 18, "indent": null },
+                    { "code": 15, "parameters": [8], "indent": null },
+                    { "code": 16, "indent": null },
+                    { "code": 15, "parameters": [8], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 18, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 15, "parameters": [8], "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 16, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 15, "parameters": [8], "indent": null }] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Mr. Lane>\\c[1]It has never been this difficult for those who normally find themselves here..."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Mr. Lane>\\c[1]Jacklyn’s behavior tonight will certainly be the discussion for the next house meeting..."] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK 2"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Mitch>...Did you say Jacklyn?"] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [{ "code": 17, "indent": null }, { "code": 15, "parameters": [8], "indent": null }, { "code": 19, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 17, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 15, "parameters": [8], "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 19, "indent": null }] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK 3"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Mr. Lane>\\c[1]Hm. Yes."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Mr. Lane>\\c[1]Your reaction confirms that you are the same Mitch she mutters about."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Mr. Lane>\\c[1]I will ask Christine to look for her so that your exit goes more peacefully."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Mr. Lane>\\c[1]In the meantime, I must return to my desk and start creating more shells."] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK 2"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Mitch>...It's fine."] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK 3"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Mr. Lane>\\c[1]Hm?"] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK 2"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Mitch>If she wants to see me, she can before I go. You’ve done enough."] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK 3"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Mr. Lane>\\c[1]In that case, I will continue my archival work. Best of luck to you."] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [
+                    { "code": 17, "indent": null },
+                    { "code": 15, "parameters": [8], "indent": null },
+                    { "code": 16, "indent": null },
+                    { "code": 15, "parameters": [8], "indent": null },
+                    { "code": 39, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 17, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 15, "parameters": [8], "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 16, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 15, "parameters": [8], "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 39, "indent": null }] },
+            { "code": 126, "indent": 0, "parameters": [11, 0, 0, 1] },
+            { "code": 356, "indent": 0, "parameters": ["MSGSE TALK CLEAR"] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 11,
+            "itemValid": true,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 16,
+      "y": 0
+    },
+    {
+      "id": 3,
+      "name": "Kettle",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["An old stove. Looks like someone keeps it clean."] },
+            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["Opa has a stove like this."] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["...Hope his heat's working tonight."] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["If I could lift a stove by myself, I'm pretty sure I would've just pried the doors open by now."] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 117, "indent": 1, "parameters": [45] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 56,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": { "tileId": 325, "characterName": "", "characterIndex": 0, "direction": 2, "pattern": 0 },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 11,
+            "itemValid": true,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["An old stove. Looks like someone keeps it clean."] },
+            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["Opa has a stove like this."] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["...Hope his heat's working tonight."] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["If I could lift a stove by myself, I'm pretty sure I would've just pried the doors open by now."] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 117, "indent": 1, "parameters": [45] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 58,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 9,
+      "y": 4
+    },
+    {
+      "id": 4,
+      "name": "Lane",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 56,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": { "tileId": 0, "characterName": "Monsters", "direction": 8, "pattern": 1, "characterIndex": 0 },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 11,
+            "itemValid": true,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 7,
+      "y": 5
+    },
+    {
+      "id": 5,
+      "name": "EV005",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
+          "list": [
+            { "code": 250, "indent": 0, "parameters": [{ "name": "Transition", "volume": 100, "pitch": 100, "pan": 0 }] },
+            { "code": 231, "indent": 0, "parameters": [1, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0] },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 231, "indent": 0, "parameters": [1, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0] },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 231, "indent": 0, "parameters": [1, "Transition3", 0, 0, 0, 0, 100, 100, 255, 0] },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 201, "indent": 0, "parameters": [0, 74, 6, 5, 2, 2] },
+            { "code": 117, "indent": 0, "parameters": [36] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                { "list": [{ "code": 29, "parameters": [6], "indent": null }, { "code": 35, "indent": null }, { "code": 0 }], "repeat": false, "skippable": false, "wait": false }
+              ]
+            },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 29, "parameters": [6], "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 35, "indent": null }] },
+            { "code": 231, "indent": 0, "parameters": [1, "Transition4", 0, 0, 0, 0, 100, 100, 255, 0] },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 231, "indent": 0, "parameters": [1, "Transition5", 0, 0, 0, 0, 100, 100, 255, 0] },
+            { "code": 230, "indent": 0, "parameters": [8] },
+            { "code": 235, "indent": 0, "parameters": [1] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 58,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 5,
+      "y": 4
+    },
+    {
+      "id": 6,
+      "name": "EV006",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
+          "list": [
+            { "code": 117, "indent": 0, "parameters": [81] },
+            { "code": 356, "indent": 0, "parameters": ["AUTOSAVE"] },
+            { "code": 355, "indent": 0, "parameters": ["PersistManager.load()"] },
+            { "code": 214, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": true
+        }
+      ],
+      "x": 0,
+      "y": 0
+    },
+    {
+      "id": 7,
+      "name": "Chase Manager",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 58,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": { "tileId": 0, "characterName": "", "direction": 2, "pattern": 1, "characterIndex": 0 },
+          "list": [
+            { "code": 111, "indent": 0, "parameters": [1, 37, 0, 16, 0] },
+            { "code": 111, "indent": 1, "parameters": [0, 106, 0] },
+            {
+              "code": 205,
+              "indent": 2,
+              "parameters": [
+                8,
+                {
+                  "list": [{ "code": 45, "parameters": ["TELEPORT: 11, 15"], "indent": null }, { "code": 40, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            { "code": 505, "indent": 2, "parameters": [{ "code": 45, "parameters": ["TELEPORT: 11, 15"], "indent": null }] },
+            { "code": 505, "indent": 2, "parameters": [{ "code": 40, "indent": null }] },
+            { "code": 121, "indent": 2, "parameters": [106, 106, 1] },
+            { "code": 214, "indent": 2, "parameters": [] },
+            { "code": 115, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            {
+              "code": 205,
+              "indent": 2,
+              "parameters": [
+                8,
+                {
+                  "list": [{ "code": 40, "indent": null }, { "code": 45, "parameters": ["TELEPORT: 8, 6"], "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            { "code": 505, "indent": 2, "parameters": [{ "code": 40, "indent": null }] },
+            { "code": 505, "indent": 2, "parameters": [{ "code": 45, "parameters": ["TELEPORT: 8, 6"], "indent": null }] },
+            { "code": 121, "indent": 2, "parameters": [107, 107, 1] },
+            { "code": 214, "indent": 2, "parameters": [] },
+            { "code": 115, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 108, "indent": 1, "parameters": ["IF the chaser is already in the room"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 411, "indent": 0, "parameters": [] },
+            { "code": 108, "indent": 1, "parameters": ["If the chaser is not in the room"] },
+            { "code": 205, "indent": 1, "parameters": [8, { "list": [{ "code": 39, "indent": null }, { "code": 0 }], "repeat": false, "skippable": false, "wait": false }] },
+            { "code": 505, "indent": 1, "parameters": [{ "code": 39, "indent": null }] },
+            { "code": 121, "indent": 1, "parameters": [107, 107, 0] },
+            { "code": 117, "indent": 1, "parameters": [64] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 2,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 104,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": { "tileId": 0, "characterName": "", "direction": 2, "pattern": 1, "characterIndex": 0 },
+          "list": [
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                8,
+                {
+                  "list": [{ "code": 40, "indent": null }, { "code": 45, "parameters": ["TELEPORT: 5, 7"], "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 40, "indent": null }] },
+            { "code": 505, "indent": 0, "parameters": [{ "code": 45, "parameters": ["TELEPORT: 5, 7"], "indent": null }] },
+            { "code": 118, "indent": 0, "parameters": ["Erase"] },
+            { "code": 122, "indent": 0, "parameters": [37, 37, 0, 0, 16] },
+            { "code": 121, "indent": 0, "parameters": [104, 104, 1] },
+            { "code": 121, "indent": 0, "parameters": [107, 107, 1] },
+            { "code": 214, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": true
+        }
+      ],
+      "x": 16,
+      "y": 8
+    },
+    {
+      "id": 8,
+      "name": "Chaser",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": { "tileId": 0, "characterName": "", "direction": 2, "pattern": 1, "characterIndex": 1 },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 5,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 2,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 58,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 39,
+            "variableValid": true,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": { "tileId": 0, "characterName": "StaticMan", "direction": 2, "pattern": 1, "characterIndex": 2 },
+          "list": [
+            { "code": 117, "indent": 0, "parameters": [65] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 5,
+          "moveRoute": {
+            "list": [
+              { "code": 29, "parameters": [1], "indent": null },
+              { "code": 10, "indent": null },
+              { "code": 10, "indent": null },
+              { "code": 10, "indent": null },
+              { "code": 29, "parameters": [6], "indent": null },
+              { "code": 37, "indent": null },
+              { "code": 10, "indent": null },
+              { "code": 9, "indent": null },
+              { "code": 38, "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": true,
+            "skippable": true,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 3,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 2,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 58,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 39,
+            "variableValid": true,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": { "tileId": 0, "characterName": "Monsters", "direction": 4, "pattern": 1, "characterIndex": 1 },
+          "list": [
+            { "code": 117, "indent": 0, "parameters": [66] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 5,
+          "moveRoute": {
+            "list": [
+              { "code": 29, "parameters": [4], "indent": null },
+              { "code": 10, "indent": null },
+              { "code": 10, "indent": null },
+              { "code": 10, "indent": null },
+              { "code": 10, "indent": null },
+              { "code": 10, "indent": null },
+              { "code": 10, "indent": null },
+              { "code": 10, "indent": null },
+              { "code": 29, "parameters": [1], "indent": null },
+              { "code": 13, "indent": null },
+              { "code": 13, "indent": null },
+              { "code": 29, "parameters": [6], "indent": null },
+              { "code": 10, "indent": null },
+              { "code": 10, "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 3,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 2,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 107,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 16,
+      "y": 9
+    },
+    {
+      "id": 9,
+      "name": "Board",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["There's a bulletin board over the counter."] },
+            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["There's a lot of different notes up here."] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["One of the typewritten ones says \"Don't change the coffee brand without telling me, Ben.\""] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["...Feels a bit wrong to take these."] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 117, "indent": 1, "parameters": [45] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 58,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 6,
+      "y": 4
+    },
+    {
+      "id": 10,
+      "name": "Board",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["There's a bulletin board over the counter."] },
+            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["There's a lot of different notes up here."] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "One's in pretty rough handwriting. It says: \"I made the wall worms some food before I wake up and go home. Christine or Benjamin, please feed them before they get cranky. -Adam\""
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["...Feels a bit wrong to take these."] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 117, "indent": 1, "parameters": [45] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 58,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 7,
+      "y": 4
+    },
+    {
+      "id": 11,
+      "name": "Board",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["There's a bulletin board over the counter."] },
+            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["There's a lot of different notes up here."] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["In the corner is a piece of notebook paper covered in tic-tac-toe games."] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["...All ties."] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["...Feels a bit wrong to take these."] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 117, "indent": 1, "parameters": [45] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 58,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 8,
+      "y": 4
+    },
+    {
+      "id": 12,
+      "name": "Coffee",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["An old coffee machine."] },
+            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["It's cold. I guess nobody wanted some night caffeine."] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["Ugh... It's really sticky. When was the last time someone cleaned this?"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["I think it's better if it stays here."] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 117, "indent": 1, "parameters": [45] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 58,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 10,
+      "y": 4
+    },
+    {
+      "id": 13,
+      "name": "Coffee",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["An old coffee machine."] },
+            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["It's cold. I guess nobody wanted some night caffeine."] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["Ugh... It's really sticky. When was the last time someone cleaned this?"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["I think it's better if it stays here."] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 117, "indent": 1, "parameters": [45] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 58,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 11,
+      "y": 4
+    },
+    {
+      "id": 14,
+      "name": "Coffee",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["A fake plant in a pot."] },
+            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["I used to like pulling the leaves off the plastic of these in the nurse's office as a kid."] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["No good reason to do that."] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 117, "indent": 1, "parameters": [45] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 58,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 3,
+      "y": 7
+    },
+    {
+      "id": 15,
+      "name": "Coffee",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["A fake plant in a pot."] },
+            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["I used to like pulling the leaves off the plastic of these in the nurse's office as a kid."] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["No good reason to do that."] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 117, "indent": 1, "parameters": [45] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 58,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": { "list": [{ "code": 0, "parameters": [] }], "repeat": true, "skippable": false, "wait": false },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 13,
+      "y": 7
+    },
+    null
+  ]
+}
