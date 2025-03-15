@@ -1575,7 +1575,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1695,7 +1695,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2991,20 +2991,20 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A fake plant in a pot."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Искусственное растение в горшке."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I used to like pulling the leaves off the plastic of these in the nurse's office as a kid."] },
+            { "code": 401, "indent": 1, "parameters": ["Раньше в медпункте, когда я был ребёнком, я любил отрывать пластиковые листья у таких растений."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["No good reason to do that."] },
+            { "code": 401, "indent": 1, "parameters": ["Мне незачем это делать."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3039,7 +3039,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3081,20 +3081,20 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A fake plant in a pot."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Искусственное растение в горшке."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I used to like pulling the leaves off the plastic of these in the nurse's office as a kid."] },
+            { "code": 401, "indent": 1, "parameters": ["Раньше в медпункте, когда я был ребёнком, я любил отрывать пластиковые листья у таких растений."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["No good reason to do that."] },
+            { "code": 401, "indent": 1, "parameters": ["Мне незачем это делать."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3129,7 +3129,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3171,20 +3171,20 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A fake plant in a pot."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Искусственное растение в горшке."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I used to like pulling the leaves off the plastic of these in the nurse's office as a kid."] },
+            { "code": 401, "indent": 1, "parameters": ["Раньше в медпункте, когда я был ребёнком, я любил отрывать пластиковые листья у таких растений."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["No good reason to do that."] },
+            { "code": 401, "indent": 1, "parameters": ["Мне незачем это делать."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3219,7 +3219,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3261,20 +3261,20 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A fake plant in a pot."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Искусственное растение в горшке."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I used to like pulling the leaves off the plastic of these in the nurse's office as a kid."] },
+            { "code": 401, "indent": 1, "parameters": ["Раньше в медпункте, когда я был ребёнком, я любил отрывать пластиковые листья у таких растений."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["No good reason to do that."] },
+            { "code": 401, "indent": 1, "parameters": ["Мне незачем это делать."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3309,7 +3309,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3351,7 +3351,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3384,7 +3384,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3426,7 +3426,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3459,7 +3459,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3501,7 +3501,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3534,7 +3534,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3576,7 +3576,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3609,7 +3609,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3651,7 +3651,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3684,7 +3684,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3726,7 +3726,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3759,7 +3759,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3801,7 +3801,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3834,7 +3834,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3876,7 +3876,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3909,7 +3909,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3951,7 +3951,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3984,7 +3984,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4026,7 +4026,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4059,7 +4059,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4101,7 +4101,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4134,7 +4134,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4176,7 +4176,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4209,7 +4209,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4251,7 +4251,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4284,7 +4284,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4326,7 +4326,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4359,7 +4359,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4401,7 +4401,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4434,7 +4434,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4476,7 +4476,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4509,7 +4509,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4551,7 +4551,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4584,7 +4584,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4626,7 +4626,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4659,7 +4659,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4701,7 +4701,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4734,7 +4734,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4776,7 +4776,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4809,7 +4809,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4851,7 +4851,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4884,7 +4884,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4926,7 +4926,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4959,7 +4959,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5001,7 +5001,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5034,7 +5034,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5076,7 +5076,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5109,7 +5109,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5151,7 +5151,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5184,7 +5184,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5226,7 +5226,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5259,7 +5259,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5301,7 +5301,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5334,7 +5334,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5376,7 +5376,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5409,7 +5409,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5451,7 +5451,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5484,7 +5484,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5526,7 +5526,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5559,7 +5559,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5601,7 +5601,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5634,7 +5634,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5676,7 +5676,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5709,7 +5709,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5751,7 +5751,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5784,7 +5784,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5826,7 +5826,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5859,7 +5859,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5901,7 +5901,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5934,7 +5934,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5976,7 +5976,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6009,7 +6009,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6051,7 +6051,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6084,7 +6084,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6126,7 +6126,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6159,7 +6159,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6201,7 +6201,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6234,7 +6234,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6276,7 +6276,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6309,7 +6309,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6351,7 +6351,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6384,7 +6384,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6426,7 +6426,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6459,7 +6459,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6501,7 +6501,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6534,7 +6534,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6576,7 +6576,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6609,7 +6609,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6651,7 +6651,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6684,7 +6684,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6726,7 +6726,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6759,7 +6759,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6801,7 +6801,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6834,7 +6834,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6876,7 +6876,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6909,7 +6909,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6951,7 +6951,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6984,7 +6984,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7026,22 +7026,22 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Looks like a naked department store mannequin. "] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Выглядит как голый манекен из универмага. "] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I remember there being a bunch of these getting sold off after that hoarder down the street died."] },
+            { "code": 401, "indent": 1, "parameters": ["Я помню, что после смерти того скупщика на соседней улице была распродана целая куча таких вещей."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["...Why did the library buy them?"] },
+            { "code": 401, "indent": 1, "parameters": ["...Зачем библиотека их купила?"] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I'd kill myself before dragging one of these around."] },
+            { "code": 401, "indent": 1, "parameters": ["Я бы скорее покончил с собой, чем таскал бы с собой такую штуку."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -7076,7 +7076,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7118,20 +7118,20 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["It's a phone."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Это телефон."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["That's weird... It's not plugged into anything."] },
+            { "code": 401, "indent": 1, "parameters": ["Странно... Он ни к чему не подключен."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["No good reason to do that."] },
+            { "code": 401, "indent": 1, "parameters": ["Мне незачем это делать."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -7166,7 +7166,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7208,7 +7208,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7241,7 +7241,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7283,7 +7283,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7316,7 +7316,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7358,7 +7358,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7391,7 +7391,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7433,7 +7433,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7466,7 +7466,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7508,7 +7508,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7541,7 +7541,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7583,7 +7583,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7616,7 +7616,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7658,7 +7658,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7691,7 +7691,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7733,7 +7733,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7766,7 +7766,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7808,7 +7808,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7841,7 +7841,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7883,20 +7883,20 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A fake plant in a pot."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Искусственное растение в горшке."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["It looks like that one plant my kindergarten teacher would sing about."] },
+            { "code": 401, "indent": 1, "parameters": ["Похоже на то самое растение, про которое пела моя воспитательница в детском саду."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["No good reason to do that."] },
+            { "code": 401, "indent": 1, "parameters": ["Мне незачем это делать."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -7931,7 +7931,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7973,20 +7973,20 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A fake plant in a pot."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Искусственное растение в горшке."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["It looks like that one plant my kindergarten teacher would sing about."] },
+            { "code": 401, "indent": 1, "parameters": ["Похоже на то самое растение, про которое пела моя воспитательница в детском саду."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["No good reason to do that."] },
+            { "code": 401, "indent": 1, "parameters": ["Мне незачем это делать."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -8021,7 +8021,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -8063,20 +8063,20 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A fake plant in a pot."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Искусственное растение в горшке."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["It looks like that one plant my kindergarten teacher would sing about."] },
+            { "code": 401, "indent": 1, "parameters": ["Похоже на то самое растение, про которое пела моя воспитательница в детском саду."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["No good reason to do that."] },
+            { "code": 401, "indent": 1, "parameters": ["Мне незачем это делать."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -8111,7 +8111,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -8153,20 +8153,20 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A fake plant in a pot."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Искусственное растение в горшке."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["It looks like that one plant my kindergarten teacher would sing about."] },
+            { "code": 401, "indent": 1, "parameters": ["Похоже на то самое растение, про которое пела моя воспитательница в детском саду."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["No good reason to do that."] },
+            { "code": 401, "indent": 1, "parameters": ["Мне незачем это делать."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -8201,7 +8201,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
