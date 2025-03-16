@@ -4966,7 +4966,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5041,7 +5041,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5116,7 +5116,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5191,7 +5191,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5266,7 +5266,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5341,7 +5341,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5416,7 +5416,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5491,7 +5491,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5566,7 +5566,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5641,7 +5641,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6924,7 +6924,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6999,7 +6999,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7074,7 +7074,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7149,7 +7149,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7224,7 +7224,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7299,7 +7299,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7374,7 +7374,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7449,7 +7449,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7524,7 +7524,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7599,7 +7599,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7674,7 +7674,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7749,7 +7749,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7824,7 +7824,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7899,7 +7899,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7974,7 +7974,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -8049,7 +8049,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Просто много книг."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,

@@ -351,35 +351,35 @@
           "image": { "tileId": 0, "characterName": "Objects", "direction": 6, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["It's an outlet. Not for forks."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Это розетка. Но не для обычных вилок."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["There's a thick cable plugged in."] },
+            { "code": 401, "indent": 1, "parameters": ["К ней подключён толстый кабель."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["It goes into a hole in the floor, so I can't tell what it goes to."] },
+            { "code": 401, "indent": 1, "parameters": ["Он идёт в дыру в полу, так что я не могу сказать, куда он уходит дальше."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I don't know what this is for, but should I unplug it anyway?"] },
-            { "code": 102, "indent": 1, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-            { "code": 402, "indent": 1, "parameters": [0, "Yes"] },
+            { "code": 401, "indent": 1, "parameters": ["Я не знаю, для чего он нужен, но должен ли я всё равно его отключить?"] },
+            { "code": 102, "indent": 1, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+            { "code": 402, "indent": 1, "parameters": [0, "Да"] },
             { "code": 121, "indent": 2, "parameters": [38, 38, 0] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["Takes some effort, but I manage to unplug the cable."] },
+            { "code": 401, "indent": 2, "parameters": ["Пришлось приложить силу, но мне удалось отсоединить кабель."] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["The weight of whatever it's attached to pulls the plug into the floor."] },
+            { "code": 401, "indent": 2, "parameters": ["Вес того, к чему он прикреплён, втягивает вилку в пол."] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [1, "No"] },
+            { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["Maybe I shouldn't be messing with everything I find."] },
+            { "code": 401, "indent": 2, "parameters": ["Может, мне не стоит возиться со всем, что я нахожу."] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 404, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -414,20 +414,20 @@
           "image": { "tileId": 0, "characterName": "Objects", "direction": 6, "pattern": 1, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["It's an outlet."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Это розетка."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["There's a rusty liquid left behind where the cable was plugged in."] },
+            { "code": 401, "indent": 1, "parameters": ["Там, где был подключен кабель, осталась ржавая жидкость."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Nothing else to unplug."] },
+            { "code": 401, "indent": 1, "parameters": ["Больше нечего отключать."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -541,40 +541,40 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 1, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["There's a small hole in the wall."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Маленькая дыра в стене."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 231, "indent": 1, "parameters": [1, "FullScreenItemView", 0, 0, 0, 0, 100, 100, 255, 0] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["It should lead outside, but there's no draft."] },
+            { "code": 401, "indent": 1, "parameters": ["Она должна вести наружу, но здесь нет сквозняка."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["It actually feels... warm?"] },
+            { "code": 401, "indent": 1, "parameters": ["Вообще, она... тёплая?"] },
             { "code": 235, "indent": 1, "parameters": [1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Should I put my hand in there?"] },
-            { "code": 102, "indent": 1, "parameters": [["Yes", "Yeah", "Absolutely", "There is no better idea", "No"], 4, 0, 1, 0] },
-            { "code": 402, "indent": 1, "parameters": [0, "Yes"] },
+            { "code": 401, "indent": 1, "parameters": ["Должен ли я засунуть туда свою руку?"] },
+            { "code": 102, "indent": 1, "parameters": [["Да", "Ага", "Конечно", "Это лучшая идея", "Нет"], 4, 0, 1, 0] },
+            { "code": 402, "indent": 1, "parameters": [0, "Да"] },
             { "code": 117, "indent": 2, "parameters": [73] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [1, "Yeah"] },
+            { "code": 402, "indent": 1, "parameters": [1, "Ага"] },
             { "code": 117, "indent": 2, "parameters": [73] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [2, "Absolutely"] },
+            { "code": 402, "indent": 1, "parameters": [2, "Конечно"] },
             { "code": 117, "indent": 2, "parameters": [73] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [3, "There is no better idea"] },
+            { "code": 402, "indent": 1, "parameters": [3, "Это лучшая идея"] },
             { "code": 117, "indent": 2, "parameters": [73] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [4, "No"] },
+            { "code": 402, "indent": 1, "parameters": [4, "Нет"] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 404, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -609,7 +609,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1043,22 +1043,22 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The shelf is filled with different audio book cases."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Полка заставлена различными аудиокнигами."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["There's one called \"A Brunch of Barbitals\"."] },
+            { "code": 401, "indent": 1, "parameters": ["Одна из них называется \"Завтрак Барбиталов\"."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Hm. Narrated by Angela Lansbury."] },
+            { "code": 401, "indent": 1, "parameters": ["Хм. Автор: Анджела Лэнсбери."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I don't have time to listen to this."] },
+            { "code": 401, "indent": 1, "parameters": ["У меня нет времени слушать их."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1093,7 +1093,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1135,22 +1135,22 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The shelf is filled with different audio book cases."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Полка заставлена различными аудиокнигами."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["There's one called \"Drunk Storytime: Dracula\"."] },
+            { "code": 401, "indent": 1, "parameters": ["Одна из них называется \"Время пьяных историй: Дракула\"."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Looks like it's part of an audio book series where the narrators are wasted."] },
+            { "code": 401, "indent": 1, "parameters": ["Похоже, это серия аудиокниг, где рассказчики тратят время впустую."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I don't have time to listen to this."] },
+            { "code": 401, "indent": 1, "parameters": ["У меня нет времени слушать их."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1185,7 +1185,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1227,22 +1227,22 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The shelf is filled with different audio book cases."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Полка заставлена различными аудиокнигами."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["There's one called \"Sleepy Teddy's Fantastic Fairy Tales\"."] },
+            { "code": 401, "indent": 1, "parameters": ["Одна из них называется \"Фантастические сказки сонного Тедди\"."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Just something to put on if parents don't want to read to their kids themselves."] },
+            { "code": 401, "indent": 1, "parameters": ["Родители могут включить подобное, если не хотят читать своим детям сами."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I don't have time to listen to this."] },
+            { "code": 401, "indent": 1, "parameters": ["У меня нет времени слушать их."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1277,7 +1277,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1319,22 +1319,22 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The shelf is filled with different audio book cases."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Полка заставлена различными аудиокнигами."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["There's one called \"Pride and Prejudice: Featuring David Hasselhoff\"."] },
+            { "code": 401, "indent": 1, "parameters": ["Одна из них называется \"Гордость и предубеждение: С участием Дэвида Хассельхоффа\"."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["That sounds... interesting???"] },
+            { "code": 401, "indent": 1, "parameters": ["Это звучит... интересно???"] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I don't have time to listen to this."] },
+            { "code": 401, "indent": 1, "parameters": ["У меня нет времени слушать их."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1369,7 +1369,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1411,22 +1411,22 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The shelf is filled with different audio book cases."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Полка заставлена различными аудиокнигами."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["There's one called \"Les Miserables: Featuring Pamela Anderson\"."] },
+            { "code": 401, "indent": 1, "parameters": ["Одна из них называется \"Отверженные: С участием Памелы Андерсон\"."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["That sounds... interesting???"] },
+            { "code": 401, "indent": 1, "parameters": ["Это звучит... интересно???"] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I don't have time to listen to this."] },
+            { "code": 401, "indent": 1, "parameters": ["У меня нет времени слушать их."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1461,7 +1461,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1503,22 +1503,22 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The shelf is filled with different audio book cases."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Полка заставлена различными аудиокнигами."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["There's one called \"Moby Dick: Featuring Billy Warlock\"."] },
+            { "code": 401, "indent": 1, "parameters": ["Одна из них называется \"Моби Дик: С участием Билли Уорлока\"."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I have no idea who that is."] },
+            { "code": 401, "indent": 1, "parameters": ["Понятия не имею, кто это."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I don't have time to listen to this."] },
+            { "code": 401, "indent": 1, "parameters": ["У меня нет времени слушать их."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1553,7 +1553,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1595,20 +1595,20 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["There's a pile of audio book cases on the shelf."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["На полке стопка коробок с аудиокнигами."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["It looks like these are all bible readings."] },
+            { "code": 401, "indent": 1, "parameters": ["Похоже, всё это библейские чтения."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I don't have time to listen to this."] },
+            { "code": 401, "indent": 1, "parameters": ["У меня нет времени слушать их."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1643,7 +1643,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1685,22 +1685,22 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The shelf is filled with different audio book cases."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Полка заставлена различными аудиокнигами."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["This is all religion stuff."] },
+            { "code": 401, "indent": 1, "parameters": ["Всё это религиозные штуки."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["A lot of duplicates are here."] },
+            { "code": 401, "indent": 1, "parameters": ["И тут много повторяющихся книг."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I don't have time to listen to this."] },
+            { "code": 401, "indent": 1, "parameters": ["У меня нет времени слушать их."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1735,7 +1735,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1777,22 +1777,22 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The shelf is filled with different audio book cases."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Полка заставлена различными аудиокнигами."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["This is all religion stuff."] },
+            { "code": 401, "indent": 1, "parameters": ["Всё это религиозные штуки."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["A lot of duplicates are here."] },
+            { "code": 401, "indent": 1, "parameters": ["И тут много повторяющихся книг."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I don't have time to listen to this."] },
+            { "code": 401, "indent": 1, "parameters": ["У меня нет времени слушать их."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1827,7 +1827,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1869,7 +1869,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of CDs."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча дисков."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1902,7 +1902,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1944,7 +1944,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of CDs."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча дисков."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1977,7 +1977,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2019,7 +2019,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of CDs."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча дисков."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2052,7 +2052,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2094,7 +2094,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of CDs."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча дисков."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2127,7 +2127,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2169,7 +2169,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of CDs."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча дисков."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2202,7 +2202,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2244,7 +2244,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of CDs."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча дисков."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2277,7 +2277,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2319,7 +2319,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of CDs."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча дисков."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2352,7 +2352,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2394,7 +2394,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of CDs."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча дисков."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2427,7 +2427,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2469,7 +2469,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of CDs."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча дисков."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2502,7 +2502,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2544,7 +2544,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of CDs."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча дисков."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2577,7 +2577,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2619,7 +2619,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of CDs."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча дисков."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2652,7 +2652,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2694,7 +2694,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of CDs."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча дисков."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2727,7 +2727,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2769,7 +2769,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of CDs."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча дисков."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2802,7 +2802,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2844,7 +2844,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of CDs."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча дисков."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2877,7 +2877,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2919,7 +2919,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of CDs."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча дисков."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2952,7 +2952,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2994,7 +2994,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of CDs."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча дисков."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3027,7 +3027,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3069,7 +3069,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of CDs."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча дисков."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3102,7 +3102,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3144,7 +3144,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of CDs."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча дисков."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3177,7 +3177,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3219,7 +3219,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of CDs."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча дисков."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3252,7 +3252,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3294,7 +3294,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of CDs."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча дисков."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3327,7 +3327,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3369,7 +3369,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of CDs."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча дисков."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3402,7 +3402,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3444,7 +3444,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of CDs."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча дисков."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3477,7 +3477,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3519,7 +3519,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of CDs."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча дисков."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3552,7 +3552,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3594,22 +3594,22 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["It's a CD and cassette player attached to a desk for audio books."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Проигрыватель дисков и кассет, прикреплённый к столу."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I don't see too many cassettes around, so part of this probably doesn't get used as much."] },
+            { "code": 401, "indent": 1, "parameters": ["Я вижу не так уж много кассет, так что, вероятно, их используют не очень часто."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Just something to put on if parents don't want to read to their kids themselves."] },
+            { "code": 401, "indent": 1, "parameters": ["Родители могут включить подобное, если не хотят читать своим детям сами."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Nothing inside that I can take."] },
+            { "code": 401, "indent": 1, "parameters": ["Внутри нет ничего, что я могу взять."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3644,7 +3644,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3686,22 +3686,22 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["It's a CD and cassette player attached to a desk for audio books."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Проигрыватель дисков и кассет, прикреплённый к столу."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I don't see too many cassettes around, so part of this probably doesn't get used as much."] },
+            { "code": 401, "indent": 1, "parameters": ["Я вижу не так уж много кассет, так что, вероятно, их используют не очень часто."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Just something to put on if parents don't want to read to their kids themselves."] },
+            { "code": 401, "indent": 1, "parameters": ["Родители могут включить подобное, если не хотят читать своим детям сами."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Nothing inside that I can take."] },
+            { "code": 401, "indent": 1, "parameters": ["Внутри нет ничего, что я могу взять."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3736,7 +3736,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3778,22 +3778,22 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["It's a CD and cassette player attached to a desk for audio books."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Проигрыватель дисков и кассет, прикреплённый к столу."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I don't see too many cassettes around, so part of this probably doesn't get used as much."] },
+            { "code": 401, "indent": 1, "parameters": ["Я вижу не так уж много кассет, так что, вероятно, их используют не очень часто."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Just something to put on if parents don't want to read to their kids themselves."] },
+            { "code": 401, "indent": 1, "parameters": ["Родители могут включить подобное, если не хотят читать своим детям сами."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Nothing inside that I can take."] },
+            { "code": 401, "indent": 1, "parameters": ["Внутри нет ничего, что я могу взять."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3828,7 +3828,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3870,22 +3870,22 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["It's a CD and cassette player attached to a desk for audio books."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Проигрыватель дисков и кассет, прикреплённый к столу."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I don't see too many cassettes around, so part of this probably doesn't get used as much."] },
+            { "code": 401, "indent": 1, "parameters": ["Я вижу не так уж много кассет, так что, вероятно, их используют не очень часто."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Just something to put on if parents don't want to read to their kids themselves."] },
+            { "code": 401, "indent": 1, "parameters": ["Родители могут включить подобное, если не хотят читать своим детям сами."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Nothing inside that I can take."] },
+            { "code": 401, "indent": 1, "parameters": ["Внутри нет ничего, что я могу взять."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3920,7 +3920,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3962,22 +3962,22 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["It's a CD and cassette player attached to a desk for audio books."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Проигрыватель дисков и кассет, прикреплённый к столу."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I don't see too many cassettes around, so part of this probably doesn't get used as much."] },
+            { "code": 401, "indent": 1, "parameters": ["Я вижу не так уж много кассет, так что, вероятно, их используют не очень часто."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Just something to put on if parents don't want to read to their kids themselves."] },
+            { "code": 401, "indent": 1, "parameters": ["Родители могут включить подобное, если не хотят читать своим детям сами."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Nothing inside that I can take."] },
+            { "code": 401, "indent": 1, "parameters": ["Внутри нет ничего, что я могу взять."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4012,7 +4012,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4054,22 +4054,22 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["It's a CD and cassette player attached to a desk for audio books."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Проигрыватель дисков и кассет, прикреплённый к столу."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I don't see too many cassettes around, so part of this probably doesn't get used as much."] },
+            { "code": 401, "indent": 1, "parameters": ["Я вижу не так уж много кассет, так что, вероятно, их используют не очень часто."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Just something to put on if parents don't want to read to their kids themselves."] },
+            { "code": 401, "indent": 1, "parameters": ["Родители могут включить подобное, если не хотят читать своим детям сами."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Nothing inside that I can take."] },
+            { "code": 401, "indent": 1, "parameters": ["Внутри нет ничего, что я могу взять."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4104,7 +4104,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4146,22 +4146,22 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["It's a CD and cassette player attached to a desk for audio books."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Проигрыватель дисков и кассет, прикреплённый к столу."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I don't see too many cassettes around, so part of this probably doesn't get used as much."] },
+            { "code": 401, "indent": 1, "parameters": ["Я вижу не так уж много кассет, так что, вероятно, их используют не очень часто."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Just something to put on if parents don't want to read to their kids themselves."] },
+            { "code": 401, "indent": 1, "parameters": ["Родители могут включить подобное, если не хотят читать своим детям сами."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Nothing inside that I can take."] },
+            { "code": 401, "indent": 1, "parameters": ["Внутри нет ничего, что я могу взять."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4196,7 +4196,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4238,22 +4238,22 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["It's a CD and cassette player attached to a desk for audio books."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Проигрыватель дисков и кассет, прикреплённый к столу."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I don't see too many cassettes around, so part of this probably doesn't get used as much."] },
+            { "code": 401, "indent": 1, "parameters": ["Я вижу не так уж много кассет, так что, вероятно, их используют не очень часто."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Just something to put on if parents don't want to read to their kids themselves."] },
+            { "code": 401, "indent": 1, "parameters": ["Родители могут включить подобное, если не хотят читать своим детям сами."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Nothing inside that I can take."] },
+            { "code": 401, "indent": 1, "parameters": ["Внутри нет ничего, что я могу взять."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4288,7 +4288,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
