@@ -1570,30 +1570,30 @@
           "image": { "tileId": 0, "characterName": "", "direction": 2, "pattern": 2, "characterIndex": 3 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A cold breeze is coming from inside the fireplace."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Из камина дует холодный ветерок."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I remember the librarian going off on a tangent about this when I came here on a field trip in second grade."] },
+            { "code": 401, "indent": 1, "parameters": ["Я помню, как я был здесь на экскурсии во втором классе и спрашивал про него, но библиотекарь уходил от ответа."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The fireplace has been here since the building was constructed in the 40s. It used to be lit on days like this, but it ended up causing a bad fire in the 60s."
+                "Камин был здесь с тех пор, как здание было построено в 40-х годах. Раньше в такие дни его разжигали, но в 60-х годах это привело к сильному пожару."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["They still put wood in here, but I guess it's just for show."] },
+            { "code": 401, "indent": 1, "parameters": ["Они всё ещё кладут дрова, но, думаю, это просто для вида."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["The wood looks like it's rotting. I doubt it'd be useful for anything."] },
+            { "code": 401, "indent": 1, "parameters": ["Дрова выглядят так, будто они гнилые. Сомневаюсь, что они где-то бы пригодились."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1628,34 +1628,34 @@
           "image": { "tileId": 0, "characterName": "Objects", "direction": 6, "pattern": 0, "characterIndex": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The wooden block sits in the fireplace."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Деревянный кубик лежит в камине."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I don't know how easy this will burn, but I don't know any way else to open it."] },
+            { "code": 401, "indent": 1, "parameters": ["Не знаю, насколько хорошо он будет гореть, но у меня всё равно нет идей, как его по-другому открыть."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I put this in here to maybe burn it."] },
+            { "code": 401, "indent": 1, "parameters": ["Я положил его сюда, чтобы он сгорел."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Should I take it back?"] },
-            { "code": 102, "indent": 1, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-            { "code": 402, "indent": 1, "parameters": [0, "Yes"] },
+            { "code": 401, "indent": 1, "parameters": ["Мне стоит его забрать обратно?"] },
+            { "code": 102, "indent": 1, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+            { "code": 402, "indent": 1, "parameters": [0, "Да"] },
             { "code": 123, "indent": 2, "parameters": ["A", 0] },
             { "code": 250, "indent": 2, "parameters": [{ "name": "GetItem", "volume": 65, "pitch": 50, "pan": 0 }] },
             { "code": 126, "indent": 2, "parameters": [3, 0, 0, 1] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["I take the \\c[4]Wooden Block\\c[0]."] },
+            { "code": 401, "indent": 2, "parameters": ["Я взял \\c[4]деревянный кубик\\c[0]."] },
             { "code": 121, "indent": 2, "parameters": [20, 20, 1] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [1, "No"] },
+            { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 404, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1690,32 +1690,32 @@
           "image": { "tileId": 0, "characterName": "Objects", "direction": 8, "pattern": 0, "characterIndex": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The remains of the block are scattering among the wood and ash."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Остатки кубика валяются среди дерева и золы."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["There's some kind of fancy key left behind!"] },
+            { "code": 401, "indent": 1, "parameters": ["Там остался какой-то необычный ключ!"] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I dig into the ash and grab a key."] },
-            { "code": 102, "indent": 1, "parameters": [["Yes", "No"], 1, 0, 1, 0] },
-            { "code": 402, "indent": 1, "parameters": [0, "Yes"] },
+            { "code": 401, "indent": 1, "parameters": ["Я пороюсь в золе и достану ключ."] },
+            { "code": 102, "indent": 1, "parameters": [["Да", "Нет"], 1, 0, 1, 0] },
+            { "code": 402, "indent": 1, "parameters": [0, "Да"] },
             { "code": 121, "indent": 2, "parameters": [20, 20, 1] },
             { "code": 121, "indent": 2, "parameters": [21, 21, 1] },
             { "code": 250, "indent": 2, "parameters": [{ "name": "GetItem", "volume": 65, "pitch": 50, "pan": 0 }] },
             { "code": 126, "indent": 2, "parameters": [4, 0, 0, 1] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["I take the \\c[4]Fancy Key\\c[0]."] },
+            { "code": 401, "indent": 2, "parameters": ["Я взял \\c[4]Необычный ключ\\c[0]."] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [1, "No"] },
+            { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 404, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1820,30 +1820,30 @@
           "image": { "tileId": 0, "characterName": "", "direction": 4, "pattern": 1, "characterIndex": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A cold breeze is coming from inside the fireplace."] },
-            { "code": 102, "indent": 0, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 0, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 0, "parameters": ["Из камина дует холодный ветерок."] },
+            { "code": 102, "indent": 0, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 0, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["I remember the librarian going off on a tangent about this when I came here on a field trip in second grade."] },
+            { "code": 401, "indent": 1, "parameters": ["Я помню, как я был здесь на экскурсии во втором классе и спрашивал про него, но библиотекарь уходил от ответа."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The fireplace has been here since the building was constructed in the 40s. It used to be lit on days like this, but it ended up causing a bad fire in the 60s."
+                "Камин был здесь с тех пор, как здание было построено в 40-х годах. Раньше в такие дни его разжигали, но в 60-х годах это привело к сильному пожару."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["They still put wood in here, but I guess it's just for show."] },
+            { "code": 401, "indent": 1, "parameters": ["Они всё ещё кладут дрова, но, думаю, это просто для вида."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["The wood looks like it's rotting. I doubt it'd be useful for anything."] },
+            { "code": 401, "indent": 1, "parameters": ["Дрова выглядят так, будто они гнилые. Сомневаюсь, что они где-то бы пригодились."] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1920,24 +1920,24 @@
           "list": [
             { "code": 111, "indent": 0, "parameters": [6, -1, 8] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["The fire finally gives some kind of warmth to this place"] },
-            { "code": 102, "indent": 1, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 1, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 1, "parameters": ["Огонь наконец-то придал этому месту хоть какое-то тепло."] },
+            { "code": 102, "indent": 1, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 1, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["It looks like all the dry wood inside will keep it going for a while."] },
+            { "code": 401, "indent": 2, "parameters": ["Похоже, вся сухая древесина внутри ещё какое-то время будет удерживать его."] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["Hopefully it won't burn out too soon."] },
+            { "code": 401, "indent": 2, "parameters": ["Надеюсь, он не перегорит слишком быстро."] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 1, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["...It's tempting to just stick my whole hand in there."] },
+            { "code": 401, "indent": 2, "parameters": ["...Так и хочется засунуть туда всю руку целиком."] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["No. No no. Burning myself isn't the way to ground myself."] },
+            { "code": 401, "indent": 2, "parameters": ["Нет. Нет нет. Самосожжение - это не лучший способ почувствовать себя."] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 1, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 2, "parameters": [45] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 1, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 404, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1975,20 +1975,20 @@
           "list": [
             { "code": 111, "indent": 0, "parameters": [6, -1, 8] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["The wooden block is burning in the fire"] },
-            { "code": 102, "indent": 1, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 1, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 1, "parameters": ["Деревянный кубик горит в огне."] },
+            { "code": 102, "indent": 1, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 1, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["The paint from the wood is making a disgusting smell."] },
+            { "code": 401, "indent": 2, "parameters": ["Краска на дереве создаёт отвратительный запах."] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 1, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["Can't really grab that without burning myself."] },
+            { "code": 401, "indent": 2, "parameters": ["Не могу его схватить, не обжёгшись."] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 1, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 2, "parameters": [45] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 1, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 404, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2025,7 +2025,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2068,24 +2068,24 @@
           "list": [
             { "code": 111, "indent": 0, "parameters": [6, -1, 8] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["The fire finally gives some kind of warmth to this place"] },
-            { "code": 102, "indent": 1, "parameters": [["Look", "Take", "Items", "Back"], 3, 0, 1, 0] },
-            { "code": 402, "indent": 1, "parameters": [0, "Look"] },
+            { "code": 401, "indent": 1, "parameters": ["Огонь наконец-то придал этому месту хоть какое-то тепло."] },
+            { "code": 102, "indent": 1, "parameters": [["Осмотреть", "Взять", "Предметы", "Назад"], 3, 0, 1, 0] },
+            { "code": 402, "indent": 1, "parameters": [0, "Осмотреть"] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["It looks like all the dry wood inside will keep it going for a while."] },
+            { "code": 401, "indent": 2, "parameters": ["Похоже, вся сухая древесина внутри ещё какое-то время будет удерживать его."] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["Hopefully it won't burn out too soon."] },
+            { "code": 401, "indent": 2, "parameters": ["Надеюсь, он не перегорит слишком быстро."] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [1, "Take"] },
+            { "code": 402, "indent": 1, "parameters": [1, "Взять"] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["...It's tempting to just stick my whole hand in there."] },
+            { "code": 401, "indent": 2, "parameters": ["...Так и хочется засунуть туда всю руку целиком."] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["No. No no. Burning myself isn't the way to ground myself."] },
+            { "code": 401, "indent": 2, "parameters": ["Нет. Нет нет. Самосожжение - это не лучший способ почувствовать себя."] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [2, "Items"] },
+            { "code": 402, "indent": 1, "parameters": [2, "Предметы"] },
             { "code": 117, "indent": 2, "parameters": [45] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 1, "parameters": [3, "Назад"] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 404, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2122,7 +2122,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3102,9 +3102,9 @@
             { "code": 235, "indent": 0, "parameters": [2] },
             { "code": 245, "indent": 0, "parameters": [{ "name": "Heartbeat", "volume": 90, "pitch": 100, "pan": 0 }] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["[THERE WILL BE A SMALL CUTSCENE HERE OF MITCH STABBING THE CHASER WITH THE FIRE POKER"] },
+            { "code": 401, "indent": 0, "parameters": ["[ЗДЕСЬ БУДЕТ НЕБОЛЬШАЯ КАТСЦЕНА ТОГО, КАК МИТЧ ЗАКАЛЫВАЕТ ПРЕСЛЕДОВАТЕЛЯ КОЧЕРГОЙ]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["[CHASE IS NOW OVER]"] },
+            { "code": 401, "indent": 0, "parameters": ["[ПОГОНЯ ЗАКОНЧИЛАСЬ]"] },
             { "code": 231, "indent": 0, "parameters": [2, "Transition1", 0, 0, 0, 0, 100, 100, 255, 0] },
             { "code": 230, "indent": 0, "parameters": [8] },
             { "code": 231, "indent": 0, "parameters": [2, "Transition2", 0, 0, 0, 0, 100, 100, 255, 0] },
@@ -4402,7 +4402,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4435,7 +4435,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4477,7 +4477,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4510,7 +4510,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4552,7 +4552,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4585,7 +4585,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4627,7 +4627,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4660,7 +4660,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4702,7 +4702,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4735,7 +4735,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4777,7 +4777,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4810,7 +4810,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4852,7 +4852,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4885,7 +4885,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4927,7 +4927,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4960,7 +4960,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5002,7 +5002,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5035,7 +5035,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5077,7 +5077,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5110,7 +5110,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5152,7 +5152,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5185,7 +5185,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5227,7 +5227,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5260,7 +5260,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5302,7 +5302,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5335,7 +5335,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5377,7 +5377,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5410,7 +5410,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5452,7 +5452,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5485,7 +5485,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5527,7 +5527,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5560,7 +5560,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5602,7 +5602,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5635,7 +5635,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5677,7 +5677,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5710,7 +5710,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5752,7 +5752,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5785,7 +5785,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5827,7 +5827,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5860,7 +5860,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5902,7 +5902,7 @@
           "image": { "tileId": 0, "characterName": "", "direction": 8, "pattern": 0, "characterIndex": 1 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Just a lot of books."] },
+            { "code": 401, "indent": 0, "parameters": ["Просто куча книг."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5935,7 +5935,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Not now!"] },
+            { "code": 401, "indent": 0, "parameters": ["Не сейчас!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
