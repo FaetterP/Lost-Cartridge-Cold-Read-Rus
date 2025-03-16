@@ -157,9 +157,9 @@
             { "code": 121, "indent": 0, "parameters": [47, 47, 0] },
             { "code": 128, "indent": 0, "parameters": [1, 0, 0, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
-            { "code": 401, "indent": 0, "parameters": ["Shoot, it's already late."] },
+            { "code": 401, "indent": 0, "parameters": ["Чёрт, уже поздно."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
-            { "code": 401, "indent": 0, "parameters": ["Better pick up the pace."] },
+            { "code": 401, "indent": 0, "parameters": ["Лучше прибавить шаг."] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -231,12 +231,12 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
-            { "code": 401, "indent": 0, "parameters": ["Ugh... Should’ve brought my ski mask."] },
+            { "code": 401, "indent": 0, "parameters": ["Угх... Надо было взять с собой лыжную маску."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Then again, the pharmacy does get robbed a lot. No amount of pills would stop a heart attack from Mr. Newman pointing his shotgun at me."]
+              "parameters": ["Аптеки действительно часто грабят. Никакое количество таблеток не остановит сердечный приступ, если мистер Ньюман направит на меня свой дробовик."]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -310,12 +310,12 @@
           "list": [
             { "code": 356, "indent": 0, "parameters": ["FocusCamera event 1 30"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
-            { "code": 401, "indent": 0, "parameters": ["Oh shit. There’s that accident."] },
+            { "code": 401, "indent": 0, "parameters": ["Вот чёрт. Тут ещё это происшествие."] },
             { "code": 356, "indent": 0, "parameters": ["FocusCamera player 30"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
-            { "code": 401, "indent": 0, "parameters": ["...Looks like I have to take another road."] },
+            { "code": 401, "indent": 0, "parameters": ["...Похоже, мне придётся пойти другой дорогой."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
-            { "code": 401, "indent": 0, "parameters": ["But the next road is..."] },
+            { "code": 401, "indent": 0, "parameters": ["Но следующая дорога..."] },
             {
               "code": 205,
               "indent": 0,
@@ -344,7 +344,7 @@
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
             { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
-            { "code": 401, "indent": 0, "parameters": ["I might freeze if I turn around now..."] },
+            { "code": 401, "indent": 0, "parameters": ["Я могу замёрзнуть, если сейчас развернусь..."] },
             {
               "code": 205,
               "indent": 0,
@@ -369,7 +369,7 @@
             { "code": 505, "indent": 0, "parameters": [{ "code": 15, "parameters": [8], "indent": null }] },
             { "code": 505, "indent": 0, "parameters": [{ "code": 17, "indent": null }] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 0] },
-            { "code": 401, "indent": 0, "parameters": ["Library parking lot, here we go..."] },
+            { "code": 401, "indent": 0, "parameters": ["Библиотечная стоянка, вот мы и здесь..."] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
