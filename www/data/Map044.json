@@ -215,7 +215,7 @@
             { "code": 223, "indent": 0, "parameters": [[-170, -170, -170, 0], 60, true] },
             { "code": 356, "indent": 0, "parameters": ["MSGSE TALK 1"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\fn<VCR OSD Mono>\\c[2]\"The Three Army Surgeons\"."] },
+            { "code": 401, "indent": 0, "parameters": ["\\fn<VCR OSD Mono>\\c[2]\"Три армейских хирурга\"."] },
             { "code": 356, "indent": 0, "parameters": ["MSGSE TALK CLEAR"] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 60, true] },
