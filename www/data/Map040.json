@@ -506,7 +506,7 @@
           "image": { "tileId": 0, "characterName": "Objects", "direction": 8, "pattern": 1, "characterIndex": 2 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["It's a wooden bead that's carved and painted to look like a snake."] },
+            { "code": 401, "indent": 0, "parameters": ["Это деревянная бусина, которая вырезана и раскрашена в виде змеи."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -618,7 +618,7 @@
           "image": { "tileId": 0, "characterName": "Objects", "direction": 8, "pattern": 2, "characterIndex": 2 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["It's a wooden bead that's carved and painted to look like a wolf."] },
+            { "code": 401, "indent": 0, "parameters": ["Это деревянная бусина, которая вырезана и раскрашена в виде волка."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -660,7 +660,7 @@
           "image": { "tileId": 0, "characterName": "Objects", "direction": 8, "pattern": 0, "characterIndex": 2 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["It's a wooden bead that's carved and painted to look like a bat."] },
+            { "code": 401, "indent": 0, "parameters": ["Это деревянная бусина, которая вырезана и раскрашена в виде летучей мыши."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1786,7 +1786,7 @@
             { "code": 115, "indent": 3, "parameters": [] },
             { "code": 250, "indent": 3, "parameters": [{ "name": "LilySound1", "volume": 90, "pitch": 60, "pan": 0 }] },
             { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 3, "parameters": ["...Sounds like something moved nearby?"] },
+            { "code": 401, "indent": 3, "parameters": ["...Похоже, рядом кто-то двигался?"] },
             { "code": 123, "indent": 3, "parameters": ["A", 0] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 412, "indent": 2, "parameters": [] },
