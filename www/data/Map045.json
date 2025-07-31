@@ -332,24 +332,24 @@
           "image": { "tileId": 0, "characterName": "", "direction": 2, "pattern": 0, "characterIndex": 3 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\"There were once three army surgeons that were thought to be the very best of their kind.\""] },
+            { "code": 401, "indent": 0, "parameters": ["\"Когда-то были три армейских хирурга, которые считались лучшими в своем роде.\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\"While travelling around the world, the three men stopped by an inn for the night.\""] },
+            { "code": 401, "indent": 0, "parameters": ["\"Путешествуя по миру, трое мужчин остановились на ночлег в гостинице.\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\"The innkeeper asked the men about their lives, which the army surgeons shared much of.\""] },
+            { "code": 401, "indent": 0, "parameters": ["\"Хозяин гостиницы расспрашивал мужчин об их жизни, о чём армейские хирурги охотно рассказывали.\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\"Impressed by their stories, the innkeeper asked the men if they could demonstrate their abilities.\""] },
+            { "code": 401, "indent": 0, "parameters": ["\"Впечатлённый их рассказами, хозяин гостиницы спросил мужчин, могут ли они продемонстрировать свои способности.\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\"The first surgeon claimed he could cut off his own hand, then reattach it in the morning.\""] },
+            { "code": 401, "indent": 0, "parameters": ["\"Первый хирург утверждал, что может отрезать себе руку, а утром пришить её обратно.\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\"The second surgeon claimed he could tear out his own heart, then place it back perfectly inside in the morning.\""] },
+            { "code": 401, "indent": 0, "parameters": ["\"Второй хирург утверждал, что может вырвать своё собственное сердце, а утром идеально вставить его обратно.\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\"The third surgeon claimed he could pluck out his own eyes, then return them to his head in the morning.\""] },
+            { "code": 401, "indent": 0, "parameters": ["\"Третий хирург утверждал, что может вырвать себе глаза, а утром вернуть их на место.\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Even more impressed, the innkeeper told the men that they would be the true masters of their art if they could do such things.\""]
+              "parameters": ["\"Ещё более впечатлённый, хозяин гостиницы сказал мужчинам, что они будут истинными мастерами своего дела, если смогут проделать подобные вещи.\""]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -394,28 +394,28 @@
             { "code": 223, "indent": 0, "parameters": [[-170, -170, -170, 0], 60, true] },
             { "code": 356, "indent": 0, "parameters": ["MSGSE TALK 1"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\fn<VCR OSD Mono>\\c[2]\"There were once three army surgeons that were thought to be the very best of their kind.\""] },
+            { "code": 401, "indent": 0, "parameters": ["\\fn<VCR OSD Mono>\\c[2]\"Когда-то были три армейских хирурга, которые считались лучшими в своем роде.\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[2]\"While travelling around the world, the three men stopped by an inn for the night.\""] },
+            { "code": 401, "indent": 0, "parameters": ["\\c[2]\"Путешествуя по миру, трое мужчин остановились на ночлег в гостинице.\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[2]\"The innkeeper asked the men about their lives, which the army surgeons shared much of.\""] },
+            { "code": 401, "indent": 0, "parameters": ["\\c[2]\"Хозяин гостиницы расспрашивал мужчин об их жизни, о чём армейские хирурги охотно рассказывали.\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[2]\"Impressed by their stories, the innkeeper asked the men if they could demonstrate their abilities.\""] },
+            { "code": 401, "indent": 0, "parameters": ["\\c[2]\"Впечатлённый их рассказами, хозяин гостиницы спросил мужчин, могут ли они продемонстрировать свои способности.\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[2]\"The first surgeon claimed he could cut off his own hand, then reattach it in the morning.\""] },
+            { "code": 401, "indent": 0, "parameters": ["\\c[2]\"Первый хирург утверждал, что может отрезать себе руку, а утром пришить её обратно.\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[2]\"The second surgeon claimed he could tear out his own heart, then place it back perfectly inside in the morning.\""]
+              "parameters": ["\\c[2]\"Второй хирург утверждал, что может вырвать своё собственное сердце, а утром идеально вставить его обратно.\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[2]\"The third surgeon claimed he could pluck out his own eyes, then return them to his head in the morning.\""] },
+            { "code": 401, "indent": 0, "parameters": ["\\c[2]\"Третий хирург утверждал, что может вырвать себе глаза, а утром вернуть их на место.\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[2]\"Even more impressed, the innkeeper told the men that they would be the true masters of their art if they could do such things.\""]
+              "parameters": ["\\c[2]\"Ещё более впечатлённый, хозяин гостиницы сказал мужчинам, что они будут истинными мастерами своего дела, если смогут проделать подобные вещи.\""]
             },
             { "code": 356, "indent": 0, "parameters": ["MSGSE TALK CLEAR"] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -532,9 +532,9 @@
           "image": { "tileId": 0, "characterName": "Objects", "direction": 4, "pattern": 1, "characterIndex": 2 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["It's a floor hatch."] },
+            { "code": 401, "indent": 0, "parameters": ["Люк в полу"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Doesn't look like it wants to budge."] },
+            { "code": 401, "indent": 0, "parameters": ["Не похоже, что он хочет сдвинуться с места."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
