@@ -125,7 +125,7 @@
             { "code": 232, "indent": 0, "parameters": [2, 0, 0, 0, 0, 0, 100, 100, 0, 0, 200, true] },
             { "code": 230, "indent": 0, "parameters": [200] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The End"] },
+            { "code": 401, "indent": 0, "parameters": ["Конец"] },
             { "code": 242, "indent": 0, "parameters": [10] },
             { "code": 354, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
