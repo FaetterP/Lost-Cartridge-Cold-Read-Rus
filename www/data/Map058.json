@@ -366,23 +366,23 @@
             { "code": 230, "indent": 0, "parameters": [120] },
             { "code": 356, "indent": 0, "parameters": ["MSGSE TALK 1"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\fn<VCR OSD Mono>\\c[2]\"As the maid went to fetch the wine, a cat came in through the window.\""] },
+            { "code": 401, "indent": 0, "parameters": ["\\fn<VCR OSD Mono>\\c[2]\"Когда горничная пошла за вином, в окно влез кот.\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[2]\"The disgusting creature snatched the precious parts away from what was meant to be their sanctuary.\""] },
+            { "code": 401, "indent": 0, "parameters": ["\\c[2]\"Это мерзкое существо похитило драгоценные части тел из их убежища.\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[2]\"As she looked upon the empty cabinet, the maid began to weep.\""] },
+            { "code": 401, "indent": 0, "parameters": ["\\c[2]\"Увидев пустой шкаф, служанка зарыдала.\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[2]\"Anyone would know that her fate would be grim if the innkeeper and surgeons were to discover her terrible mistake.\""]
+              "parameters": ["\\c[2]\"Она знала, что её судьба будет печальной, если хозяин гостиницы и хирурги обнаружат её ужасную ошибку.\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[2]\"She began to cry in fear before her dear lover comforted her.\""] },
+            { "code": 401, "indent": 0, "parameters": ["\\c[2]\"Она начала плакать от страха, прежде чем её дорогой возлюбленный успокоил её.\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[2]\"He wiped away her tears and sent her to the gallows where a thief was hung that day.\""] },
+            { "code": 401, "indent": 0, "parameters": ["\\c[2]\"Он вытер её слёзы и отправил на виселицу, где в тот день был повешен вор.\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[2]\"She was instructed to use her scissors to cut off his hand and take it for herself.\"\\fn<Pixel NES>"] },
+            { "code": 401, "indent": 0, "parameters": ["\\c[2]\"Ей было сказано отрезать ножницами его руку и взять её себе.\"\\fn<Pixel NES>"] },
             { "code": 356, "indent": 0, "parameters": ["MSGSE TALK CLEAR"] },
             { "code": 117, "indent": 0, "parameters": [34] },
             {
@@ -444,7 +444,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Glass eyes."] },
+            { "code": 401, "indent": 0, "parameters": ["Стеклянные глаза."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -585,7 +585,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Glass eyes."] },
+            { "code": 401, "indent": 0, "parameters": ["Стеклянные глаза."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -656,7 +656,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Glass eyes."] },
+            { "code": 401, "indent": 0, "parameters": ["Стеклянные глаза."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -727,7 +727,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Glass eyes."] },
+            { "code": 401, "indent": 0, "parameters": ["Стеклянные глаза."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -798,7 +798,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Glass eyes."] },
+            { "code": 401, "indent": 0, "parameters": ["Стеклянные глаза."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -869,7 +869,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Glass eyes."] },
+            { "code": 401, "indent": 0, "parameters": ["Стеклянные глаза."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -940,7 +940,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Glass eyes."] },
+            { "code": 401, "indent": 0, "parameters": ["Стеклянные глаза."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1011,7 +1011,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Glass eyes."] },
+            { "code": 401, "indent": 0, "parameters": ["Стеклянные глаза."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1082,7 +1082,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Glass eyes."] },
+            { "code": 401, "indent": 0, "parameters": ["Стеклянные глаза."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1153,7 +1153,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Glass eyes."] },
+            { "code": 401, "indent": 0, "parameters": ["Стеклянные глаза."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1224,7 +1224,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Glass eyes."] },
+            { "code": 401, "indent": 0, "parameters": ["Стеклянные глаза."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1295,7 +1295,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Glass eyes."] },
+            { "code": 401, "indent": 0, "parameters": ["Стеклянные глаза."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1366,7 +1366,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A felt heart."] },
+            { "code": 401, "indent": 0, "parameters": ["Тканевое сердце."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1437,7 +1437,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A felt heart."] },
+            { "code": 401, "indent": 0, "parameters": ["Тканевое сердце."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1508,7 +1508,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A felt heart."] },
+            { "code": 401, "indent": 0, "parameters": ["Тканевое сердце."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1579,7 +1579,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A felt heart."] },
+            { "code": 401, "indent": 0, "parameters": ["Тканевое сердце."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1650,7 +1650,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A felt heart."] },
+            { "code": 401, "indent": 0, "parameters": ["Тканевое сердце."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1721,7 +1721,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A felt heart."] },
+            { "code": 401, "indent": 0, "parameters": ["Тканевое сердце."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1792,7 +1792,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A felt heart."] },
+            { "code": 401, "indent": 0, "parameters": ["Тканевое сердце."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1863,7 +1863,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A felt heart."] },
+            { "code": 401, "indent": 0, "parameters": ["Тканевое сердце."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1934,7 +1934,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A felt heart."] },
+            { "code": 401, "indent": 0, "parameters": ["Тканевое сердце."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2005,7 +2005,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A plush hand."] },
+            { "code": 401, "indent": 0, "parameters": ["Плюшевая рука."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2076,7 +2076,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A plush hand."] },
+            { "code": 401, "indent": 0, "parameters": ["Плюшевая рука."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2147,7 +2147,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A plush hand."] },
+            { "code": 401, "indent": 0, "parameters": ["Плюшевая рука."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2218,7 +2218,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A plush hand."] },
+            { "code": 401, "indent": 0, "parameters": ["Плюшевая рука."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2289,7 +2289,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A plush hand."] },
+            { "code": 401, "indent": 0, "parameters": ["Плюшевая рука."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2360,7 +2360,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A plush hand."] },
+            { "code": 401, "indent": 0, "parameters": ["Плюшевая рука."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2431,7 +2431,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A plush hand."] },
+            { "code": 401, "indent": 0, "parameters": ["Плюшевая рука."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2502,7 +2502,7 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A plush hand."] },
+            { "code": 401, "indent": 0, "parameters": ["Плюшевая рука."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2573,9 +2573,9 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A plastic bottle made to look like glass."] },
+            { "code": 401, "indent": 0, "parameters": ["Пластиковая бутылка, которая выглядит как стекло."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The label says \"Bloody Krauss\"."] },
+            { "code": 401, "indent": 0, "parameters": ["На этикетке написано \"Кровавый Краусс\"."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2617,9 +2617,9 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A plastic bottle made to look like glass."] },
+            { "code": 401, "indent": 0, "parameters": ["Пластиковая бутылка, которая выглядит как стекло."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The label says \"Bloody Krauss\"."] },
+            { "code": 401, "indent": 0, "parameters": ["На этикетке написано \"Кровавый Краусс\"."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2661,9 +2661,9 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A plastic bottle made to look like glass."] },
+            { "code": 401, "indent": 0, "parameters": ["Пластиковая бутылка, которая выглядит как стекло."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The label says \"Bloody Krauss\"."] },
+            { "code": 401, "indent": 0, "parameters": ["На этикетке написано \"Кровавый Краусс\"."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2705,9 +2705,9 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A plastic bottle made to look like glass."] },
+            { "code": 401, "indent": 0, "parameters": ["Пластиковая бутылка, которая выглядит как стекло."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The label says \"Bloody Krauss\"."] },
+            { "code": 401, "indent": 0, "parameters": ["На этикетке написано \"Кровавый Краусс\"."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2749,9 +2749,9 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A plastic bottle made to look like glass."] },
+            { "code": 401, "indent": 0, "parameters": ["Пластиковая бутылка, которая выглядит как стекло."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The label says \"Bloody Krauss\"."] },
+            { "code": 401, "indent": 0, "parameters": ["На этикетке написано \"Кровавый Краусс\"."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2793,9 +2793,9 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A plastic bottle made to look like glass."] },
+            { "code": 401, "indent": 0, "parameters": ["Пластиковая бутылка, которая выглядит как стекло."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The label says \"Bloody Krauss\"."] },
+            { "code": 401, "indent": 0, "parameters": ["На этикетке написано \"Кровавый Краусс\"."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2837,9 +2837,9 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A plastic bottle made to look like glass."] },
+            { "code": 401, "indent": 0, "parameters": ["Пластиковая бутылка, которая выглядит как стекло."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The label says \"Bloody Krauss\"."] },
+            { "code": 401, "indent": 0, "parameters": ["На этикетке написано \"Кровавый Краусс\"."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2881,9 +2881,9 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A plastic bottle made to look like glass."] },
+            { "code": 401, "indent": 0, "parameters": ["Пластиковая бутылка, которая выглядит как стекло."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The label says \"Bloody Krauss\"."] },
+            { "code": 401, "indent": 0, "parameters": ["На этикетке написано \"Кровавый Краусс\"."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2925,9 +2925,9 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A plastic bottle made to look like glass."] },
+            { "code": 401, "indent": 0, "parameters": ["Пластиковая бутылка, которая выглядит как стекло."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The label says \"Bloody Krauss\"."] },
+            { "code": 401, "indent": 0, "parameters": ["На этикетке написано \"Кровавый Краусс\"."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2969,9 +2969,9 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A plastic bottle made to look like glass."] },
+            { "code": 401, "indent": 0, "parameters": ["Пластиковая бутылка, которая выглядит как стекло."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The label says \"Bloody Krauss\"."] },
+            { "code": 401, "indent": 0, "parameters": ["На этикетке написано \"Кровавый Краусс\"."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3013,9 +3013,9 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A plastic bottle made to look like glass."] },
+            { "code": 401, "indent": 0, "parameters": ["Пластиковая бутылка, которая выглядит как стекло."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The label says \"Bloody Krauss\"."] },
+            { "code": 401, "indent": 0, "parameters": ["На этикетке написано \"Кровавый Краусс\"."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3057,9 +3057,9 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A plastic bottle made to look like glass."] },
+            { "code": 401, "indent": 0, "parameters": ["Пластиковая бутылка, которая выглядит как стекло."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The label says \"Bloody Krauss\"."] },
+            { "code": 401, "indent": 0, "parameters": ["На этикетке написано \"Кровавый Краусс\"."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3101,9 +3101,9 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A plastic bottle made to look like glass."] },
+            { "code": 401, "indent": 0, "parameters": ["Пластиковая бутылка, которая выглядит как стекло."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The label says \"Bloody Krauss\"."] },
+            { "code": 401, "indent": 0, "parameters": ["На этикетке написано \"Кровавый Краусс\"."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3145,9 +3145,9 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A plastic bottle made to look like glass."] },
+            { "code": 401, "indent": 0, "parameters": ["Пластиковая бутылка, которая выглядит как стекло."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The label says \"Bloody Krauss\"."] },
+            { "code": 401, "indent": 0, "parameters": ["На этикетке написано \"Кровавый Краусс\"."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3189,9 +3189,9 @@
           "image": { "characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0 },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A plastic bottle made to look like glass."] },
+            { "code": 401, "indent": 0, "parameters": ["Пластиковая бутылка, которая выглядит как стекло."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["The label says \"Bloody Krauss\"."] },
+            { "code": 401, "indent": 0, "parameters": ["На этикетке написано \"Кровавый Краусс\"."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
