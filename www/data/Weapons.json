@@ -3,14 +3,14 @@
   {
     "id": 1,
     "animationId": 0,
-    "description": "A library card with the name:\n\"Clayton Malthus\".",
+    "description": "Библиотечная карточка с именем:\n\"Клейтон Мальтус\".",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
       { "code": 22, "dataId": 0, "value": 0 }
     ],
     "iconIndex": 12,
-    "name": "Clay Card",
+    "name": "Карточка Клейтона",
     "note": "",
     "params": [0, 0, 0, 0, 0, 0, 0, 0],
     "price": 0,
@@ -19,14 +19,14 @@
   {
     "id": 2,
     "animationId": 0,
-    "description": "A library card with the name:\n\"Adam Wilson\".",
+    "description": "Библиотечная карточка с именем:\n\"Адам Уилсон\".",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
       { "code": 22, "dataId": 0, "value": 0 }
     ],
     "iconIndex": 12,
-    "name": "Adam Card",
+    "name": "Карточка Адама",
     "note": "",
     "params": [0, 0, 0, 0, 0, 0, 0, 0],
     "price": 0,
@@ -35,14 +35,14 @@
   {
     "id": 3,
     "animationId": 0,
-    "description": "A library card with the name:\n\"Christine Robin\".",
+    "description": "Библиотечная карточка с именем:\n\"Кристина Робин\".",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
       { "code": 22, "dataId": 0, "value": 0 }
     ],
     "iconIndex": 12,
-    "name": "Stine Card",
+    "name": "Карточка Крис",
     "note": "",
     "params": [0, 0, 0, 0, 0, 0, 0, 0],
     "price": 0,
@@ -51,14 +51,14 @@
   {
     "id": 4,
     "animationId": 0,
-    "description": "A library card with the name:\n\"Benjamin Lane\".",
+    "description": "Библиотечная карточка с именем:\n\"Бенджамин Лэйн\".",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
       { "code": 22, "dataId": 0, "value": 0 }
     ],
     "iconIndex": 12,
-    "name": "Ben Card",
+    "name": "Карточка Бена",
     "note": "",
     "params": [0, 0, 0, 0, 0, 0, 0, 0],
     "price": 0,
@@ -67,14 +67,14 @@
   {
     "id": 5,
     "animationId": 0,
-    "description": "A library card with the name:\n\"Abigail Martino\".",
+    "description": "Библиотечная карточка с именем:\n\"Эбигейл Мартино\".",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
       { "code": 22, "dataId": 0, "value": 0 }
     ],
     "iconIndex": 12,
-    "name": "Abbey Card",
+    "name": "Карточка Эби",
     "note": "",
     "params": [0, 0, 0, 0, 0, 0, 0, 0],
     "price": 0,
@@ -83,14 +83,14 @@
   {
     "id": 6,
     "animationId": 0,
-    "description": "A library card with the name:\n\"Gina Savelli\".",
+    "description": "Библиотечная карточка с именем:\n\"Джина Савелли\".",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
       { "code": 22, "dataId": 0, "value": 0 }
     ],
     "iconIndex": 12,
-    "name": "Gina Card",
+    "name": "Карточка Джины",
     "note": "",
     "params": [0, 0, 0, 0, 0, 0, 0, 0],
     "price": 0,
@@ -99,14 +99,14 @@
   {
     "id": 7,
     "animationId": 0,
-    "description": "A library card with the name:\n\"Michael Peterson\".",
+    "description": "Библиотечная карточка с именем:\n\"Майкл Питерсон\".",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
       { "code": 22, "dataId": 0, "value": 0 }
     ],
     "iconIndex": 12,
-    "name": "Mike Card",
+    "name": "Карточка Майкла",
     "note": "",
     "params": [0, 0, 0, 0, 0, 0, 0, 0],
     "price": 0,
@@ -115,14 +115,14 @@
   {
     "id": 8,
     "animationId": 0,
-    "description": "A library card with the name:\n\"Janice Pargana\".",
+    "description": "Библиотечная карточка с именем:\n\"Дженис Паргана\".",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
       { "code": 22, "dataId": 0, "value": 0 }
     ],
     "iconIndex": 12,
-    "name": "Janice Card",
+    "name": "Карточка Дженис",
     "note": "",
     "params": [0, 0, 0, 0, 0, 0, 0, 0],
     "price": 0,
@@ -131,14 +131,14 @@
   {
     "id": 9,
     "animationId": 0,
-    "description": "My new library card, I guess?",
+    "description": "Полагаю, это моя библиотечная карточка?",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
       { "code": 22, "dataId": 0, "value": 0 }
     ],
     "iconIndex": 12,
-    "name": "Mitch Card",
+    "name": "Каточка Митча",
     "note": "",
     "params": [0, 0, 0, 0, 0, 0, 0, 0],
     "price": 0,
@@ -147,14 +147,14 @@
   {
     "id": 10,
     "animationId": 0,
-    "description": "A library card with the name:\n\"Caroline Pargana\".",
+    "description": "Библиотечная карточка с именем:\n\"Кэролайн Паргана\".",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
       { "code": 22, "dataId": 0, "value": 0 }
     ],
     "iconIndex": 12,
-    "name": "Cara Card",
+    "name": "Карточка Кэри",
     "note": "",
     "params": [0, 0, 0, 0, 0, 0, 0, 0],
     "price": 0,
