@@ -3,7 +3,7 @@
   {
     "id": 1,
     "atypeId": 0,
-    "description": "Мои лекарства",
+    "description": "Мои лекарства.",
     "etypeId": 2,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 13,

@@ -398,7 +398,7 @@
             { "code": 121, "indent": 2, "parameters": [105, 105, 0] },
             { "code": 123, "indent": 2, "parameters": ["A", 0] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["Я не заметил, что держу это в руке."] },
+            { "code": 401, "indent": 2, "parameters": ["Я даже не замечал, как держал всё это в себе."] },
             { "code": 134, "indent": 2, "parameters": [0] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 402, "indent": 1, "parameters": [1, "Нет"] },
